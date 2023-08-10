@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe-politicas/static/css/main.073c9b0a.css",
+    "main.js": "/tic-tac-toe-politicas/static/js/main.4ab99996.js",
+    "static/js/787.be2af8ee.chunk.js": "/tic-tac-toe-politicas/static/js/787.be2af8ee.chunk.js",
+    "index.html": "/tic-tac-toe-politicas/index.html",
+    "main.073c9b0a.css.map": "/tic-tac-toe-politicas/static/css/main.073c9b0a.css.map",
+    "main.4ab99996.js.map": "/tic-tac-toe-politicas/static/js/main.4ab99996.js.map",
+    "787.be2af8ee.chunk.js.map": "/tic-tac-toe-politicas/static/js/787.be2af8ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4ab99996.js"
+  ]
+}
