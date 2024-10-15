@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tic-tac-toe-politicas/static/css/main.fe0b5fee.css",
-    "main.js": "/tic-tac-toe-politicas/static/js/main.3d7df88f.js",
+    "main.js": "/tic-tac-toe-politicas/static/js/main.075ed6cf.js",
     "static/js/787.be2af8ee.chunk.js": "/tic-tac-toe-politicas/static/js/787.be2af8ee.chunk.js",
     "static/media/logoVerde.png": "/tic-tac-toe-politicas/static/media/logoVerde.4b9a580add3368c34b4c.png",
     "index.html": "/tic-tac-toe-politicas/index.html",
     "main.fe0b5fee.css.map": "/tic-tac-toe-politicas/static/css/main.fe0b5fee.css.map",
-    "main.3d7df88f.js.map": "/tic-tac-toe-politicas/static/js/main.3d7df88f.js.map",
+    "main.075ed6cf.js.map": "/tic-tac-toe-politicas/static/js/main.075ed6cf.js.map",
     "787.be2af8ee.chunk.js.map": "/tic-tac-toe-politicas/static/js/787.be2af8ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe0b5fee.css",
-    "static/js/main.3d7df88f.js"
+    "static/js/main.075ed6cf.js"
   ]
 }
