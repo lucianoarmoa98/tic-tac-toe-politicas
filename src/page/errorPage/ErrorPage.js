@@ -30,7 +30,7 @@ function ErrorPage() {
                 <Button
                     variant="contained"
                     color="primary"
-                    href="/tic-tac-toe-politicas"
+                    href="/"
                     style={{ backgroundColor: '#07bc7d' }}
                 >
                     Ir al inicio
