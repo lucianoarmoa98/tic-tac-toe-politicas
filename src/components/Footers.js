@@ -27,7 +27,7 @@ const FootersMobile = () => {
             backgroundColor: "white",
         }}>
             <Typography variant="caption" display="block" gutterBottom align="center">
-                © 2024 Paseo La Galeria. Todos los derechos reservados.
+                © 2025 Paseo La Galeria. Todos los derechos reservados.
             </Typography>
         </footer>
     );
@@ -53,7 +53,7 @@ const FootersWeb = ({ handlePhoneWhatsApp }) => {
                 </div>
 
                 <Typography variant="caption" display="block" gutterBottom>
-                    © 2024 Paseo La Galeria. Todos los derechos reservados.
+                    © 2025 Paseo La Galeria. Todos los derechos reservados.
                 </Typography>
             </div>
 

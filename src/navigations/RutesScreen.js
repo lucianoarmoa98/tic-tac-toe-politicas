@@ -7,6 +7,7 @@ import NotasSimplesPoliticasPage from "../page/notasSImples/NotasSimplesPolitica
 import ControlGastosPoliticasPage from "../page/controlGastos/ControlGastosPoliticasPage"
 import ProductosQuimfaPoliticasPage from "../page/productosQuimfa/ProductosQuimfaPoliticasPage"
 import AlmacenMascotasPoliticasPage from "../page/almacenMascotas/AlmacenMascotasPoliticasPage"
+import SnakejuegoPage from "../page/appSnakeJuego/SnakejuegoPage"
 
 
 function RutesScreen() {
@@ -22,7 +23,7 @@ function RutesScreen() {
         <Route path="/app/control-gastos-app-politicas-condicion" element={<ControlGastosPoliticasPage />} />
         <Route path="/app/productos-quimfa/politicas-condicion" element={<ProductosQuimfaPoliticasPage />} />
         <Route path="/app/almacen-mascotas/politicas-condicion" element={<AlmacenMascotasPoliticasPage />} />
-        <Route path="/app/snake-juego/politicas-condicion" element={<AlmacenMascotasPoliticasPage />} />
+        <Route path="/app/snake-juego/politicas-condicion" element={<SnakejuegoPage />} />
         <Route path="*" element={<ErrorPage />} />
 
       </Routes>
