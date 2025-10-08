@@ -22,7 +22,7 @@ function RutesScreen() {
         <Route path="/app/control-gastos-app-politicas-condicion" element={<ControlGastosPoliticasPage />} />
         <Route path="/app/productos-quimfa/politicas-condicion" element={<ProductosQuimfaPoliticasPage />} />
         <Route path="/app/almacen-mascotas/politicas-condicion" element={<AlmacenMascotasPoliticasPage />} />
-
+        <Route path="/app/snake-juego/politicas-condicion" element={<AlmacenMascotasPoliticasPage />} />
         <Route path="*" element={<ErrorPage />} />
 
       </Routes>
