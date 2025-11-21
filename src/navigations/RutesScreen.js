@@ -8,6 +8,7 @@ import ControlGastosPoliticasPage from "../page/controlGastos/ControlGastosPolit
 import ProductosQuimfaPoliticasPage from "../page/productosQuimfa/ProductosQuimfaPoliticasPage"
 import AlmacenMascotasPoliticasPage from "../page/almacenMascotas/AlmacenMascotasPoliticasPage"
 import SnakejuegoPage from "../page/appSnakeJuego/SnakejuegoPage"
+import OneTravelPoliticasPage from "../page/oneTravel/OneTravelPoliticasPage"
 
 
 function RutesScreen() {
@@ -24,6 +25,7 @@ function RutesScreen() {
         <Route path="/app/productos-quimfa/politicas-condicion" element={<ProductosQuimfaPoliticasPage />} />
         <Route path="/app/almacen-mascotas/politicas-condicion" element={<AlmacenMascotasPoliticasPage />} />
         <Route path="/app/snake-juego/politicas-condicion" element={<SnakejuegoPage />} />
+        <Route path="/app/one-travel/politicas-condicion" element={<OneTravelPoliticasPage />} />
         <Route path="*" element={<ErrorPage />} />
 
       </Routes>
