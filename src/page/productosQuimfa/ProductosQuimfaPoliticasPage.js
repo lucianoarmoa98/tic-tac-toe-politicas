@@ -6,12 +6,12 @@ function ProductosQuimfaPoliticasPage() {
       padding: '20px',
     }}>
       <h1>Política de Privacidad</h1>
-      <p>Última actualización: 15 de septiembre de 2025</p>
+      <p>Última actualización: 15 de septiembre de {new Date().getFullYear()}</p>
       <p>Esta Política de Privacidad describe nuestras políticas y procedimientos sobre la recopilación, uso y divulgación de su información cuando utiliza Productos Quimfa. La aplicación está enfocada en mostrar catálogos de medicamentos.</p>
 
       <h2>Definiciones</h2>
       <ul>
-        <li><strong>Aplicación</strong>: Se refiere a Productos Quimfa.</li>
+        <li><strong>Aplicación</strong>: Se refiere a Quimfa Vademecum.</li>
         <li><strong>Dispositivo</strong>: Cualquier dispositivo que pueda acceder al Servicio, como un ordenador o un teléfono móvil.</li>
         <li><strong>Servicio</strong>: Se refiere a la Aplicación y sus funcionalidades, incluyendo la visualización de catálogos de medicamentos.</li>
         <li><strong>Usted</strong>: El individuo que accede o utiliza el Servicio.</li>
