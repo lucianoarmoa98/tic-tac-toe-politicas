@@ -6,7 +6,7 @@ function ProductosQuimfaPoliticasPage() {
       padding: '20px',
     }}>
       <h1>Política de Privacidad</h1>
-      <p>Última actualización: 15 de septiembre de {new Date().getFullYear()}</p>
+      <p>Última actualización: 15 de enero de {new Date().getFullYear()}</p>
       <p>Esta Política de Privacidad describe nuestras políticas y procedimientos sobre la recopilación, uso y divulgación de su información cuando utiliza Productos Quimfa. La aplicación está enfocada en mostrar catálogos de medicamentos.</p>
 
       <h2>Definiciones</h2>
