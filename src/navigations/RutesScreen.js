@@ -10,7 +10,7 @@ import AlmacenMascotasPoliticasPage from "../page/almacenMascotas/AlmacenMascota
 import SnakejuegoPage from "../page/appSnakeJuego/SnakejuegoPage"
 import OneTravelPoliticasPage from "../page/oneTravel/OneTravelPoliticasPage"
 import VaoPuePoliticasPage from "../page/vaoPue/VaoPuePoliticasPage"
-
+import SagaGym from "../page/saga-gym/SagaGym"
 
 function RutesScreen() {
 
@@ -28,6 +28,7 @@ function RutesScreen() {
         <Route path="/app/snake-juego/politicas-condicion" element={<SnakejuegoPage />} />
         <Route path="/app/one-travel/politicas-condicion" element={<OneTravelPoliticasPage />} />
         <Route path="/app/vao-pue/politicas-condicion" element={<VaoPuePoliticasPage/>} />
+             <Route path="/app/saga-mascotas/politicas-condicion" element={<SagaGym />} />
 
         <Route path="*" element={<ErrorPage />} />
 
