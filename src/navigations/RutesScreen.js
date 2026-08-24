@@ -27,8 +27,8 @@ function RutesScreen() {
         <Route path="/app/almacen-mascotas/politicas-condicion" element={<AlmacenMascotasPoliticasPage />} />
         <Route path="/app/snake-juego/politicas-condicion" element={<SnakejuegoPage />} />
         <Route path="/app/one-travel/politicas-condicion" element={<OneTravelPoliticasPage />} />
-        <Route path="/app/vao-pue/politicas-condicion" element={<VaoPuePoliticasPage/>} />
-             <Route path="/app/saga-mascotas/politicas-condicion" element={<SagaGym />} />
+        <Route path="/app/vao-pue/politicas-condicion" element={<VaoPuePoliticasPage />} />
+        <Route path="/app/saga-mascotas/politicas-condicion" element={<SagaGym />} />
 
         <Route path="*" element={<ErrorPage />} />
 

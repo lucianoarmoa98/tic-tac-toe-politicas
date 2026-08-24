@@ -58,9 +58,9 @@ function SagaGym() {
       <h2>7. Atención al Cliente y Soporte</h2>
       <ul>
         <li>Si experimentas problemas con la visualización de tus rutinas, el registro de tus avances o necesitas aclarar dudas sobre tus pagos, puedes contactarnos a través de:</li>
-        <li><strong>Teléfono / WhatsApp:</strong> [Insertar Teléfono de Saga Gym]</li>
+        <li><strong>Teléfono / WhatsApp:</strong> 0981-704-604</li>
         <li><strong>Email de Soporte:</strong> soporte@sagagym.com</li>
-        <li><strong>Dirección:</strong> [Insertar Dirección Física del Gimnasio]</li>
+        <li><strong>Dirección:</strong> Augusto Roa Bastos 441, Asunción 001530</li>
       </ul>
     </div>
   );
